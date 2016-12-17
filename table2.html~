@@ -1,0 +1,22 @@
+<html>
+<style>
+
+table, th, td {
+border:1px solid black;
+border-collapse:collapse; }
+td,th{
+padding:5px;
+}
+</style>
+
+
+<table border="1">
+
+<tr><th>Sports</th><th>rank</th></tr>
+<tr><td>Cricket</td><td>1</td></tr>
+<tr><td>Football</td><td>3</td></tr>
+<tr><td>ProKabbadi</td><td>4</td></tr>
+</table>
+</html>
+<style>  
+

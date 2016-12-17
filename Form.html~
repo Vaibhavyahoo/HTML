@@ -1,0 +1,33 @@
+<html>
+<form>
+<label for ="firstname">
+FirstName:</label>
+<input type="text"Name=FistName /><br>
+<label for="lastName">
+LastName:</label>
+<input type="text"Name=LastName /><br>
+</form>
+</html>
+
+<html>
+<form>
+<label for="Password">Password:</label>
+<input type="password"id="password"name="password" /><br>
+</form>
+</html>
+
+
+<html>
+<form>
+FirstName:<input type="text"Name=FirstName /><br>
+LastName:<input type="text"Name=LastName /><br>
+MobileNO:<input type="number"MobileNo=MobileNo /><br>
+</form>
+</html>
+
+<html>
+<form>
+<label for="email">Email: </label>
+<input type="email"id="email"name="email"/><br>
+</form>
+</html>
