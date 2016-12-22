@@ -1,0 +1,10 @@
+<html>
+<body>
+<h3 style="color:green">this is green color</h3>
+<h3 style="color:red">this is red color</h3>
+<h1 style= "background-color:blue">this is blue background</h1>
+<h1 style="background-color:orange">this is orange backgroound</h1>
+<h1 style="font-size:200%">this is 200% font size</h1>
+</body>
+</html>
+
